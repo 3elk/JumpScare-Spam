@@ -16,7 +16,15 @@ function death(){
 if(released===true){
     
     window.open("jumpscare.mp4", "_blank");
-    
+    window.open("jumpscare.mp4", "_blank");
+    window.open("jumpscare.mp4", "_blank");
+    window.open("jumpscare.mp4", "_blank");
+    window.open("jumpscare.mp4", "_blank");
+    window.open("jumpscare.mp4", "_blank");
+    window.open("jumpscare.mp4", "_blank");
+    window.open("jumpscare.mp4", "_blank");
+    window.open("jumpscare.mp4", "_blank");
+    window.open("jumpscare.mp4", "_blank");
 }
     
 }
